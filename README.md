@@ -1,5 +1,5 @@
 
-# Burger Kitchen
+# Burger Kitchen by Zhi Zeng
 
 When I think of regular traditional games, board games and table-top games instantly comes to my mind. This game that I created combines basic components from different existing board/table-top games in order to create a new unique and fun board game. Such elements includes the Card systems from the Uno game, and the Board systems from Monopoly. 
 
